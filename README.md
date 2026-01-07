@@ -1,6 +1,6 @@
 # YOLO Keypoint Labeling Tool
 
-Python 및 Tkinter 기반의 YOLO Keypoint Detection 라벨링 도구. Ultralytics YOLO 형식의 데이터셋 생성 지원.
+Python 및 Tkinter 기반의 YOLO Keypoint Detection 라벨링 도구. YOLO 형식의 데이터셋 생성 지원.
 
 ## 1. 설치 및 실행
 
@@ -62,4 +62,5 @@ python labeling_tool.py
 - **Visibility**:
   - `2`: Visible (보임)
   - 생성된 모든 키포인트는 기본값 `2`로 저장됨.
+
 
